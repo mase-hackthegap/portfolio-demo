@@ -30,7 +30,7 @@
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
-  "homepage": "https://mase-hackthegap.github.io/portfolio-demo",
+  "homepage": "https://mase-hackthegap.github.io/portfolio-demo/",
   "browserslist": {
     "production": [
       ">0.2%",
